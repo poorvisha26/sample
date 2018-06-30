@@ -18,5 +18,7 @@ public class java13
             {
                 System.out.print("yes");
             }
+        else
+            System.out.print("no");
     }
 }
