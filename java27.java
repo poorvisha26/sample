@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class java22
+public class java27
 {
     public static void main(String args[])
     {
